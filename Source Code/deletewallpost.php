@@ -1,0 +1,1 @@
+deletewallpost.php
